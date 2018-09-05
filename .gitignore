@@ -1,6 +1,7 @@
 *.pyc
 *.ipynb_notebooks
 *.ipynb
+test.egg_info
 ignore
 *~
 venv
