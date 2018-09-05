@@ -1,7 +1,7 @@
 *.pyc
 *.ipynb_notebooks
 *.ipynb
-test.egg_info
+your-project-name.egg_info
 ignore
 *~
 venv

@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='test',
+    name='your-project-name',
     version='1.0',
     long_description='hello world by xingoo',
     packages=find_packages(exclude=['tests']),
