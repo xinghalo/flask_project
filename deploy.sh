@@ -1,1 +1,1 @@
-python setup.py sdist --formats=gztar
+python setup.py test sdist

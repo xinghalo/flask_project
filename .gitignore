@@ -21,3 +21,4 @@ dist
 npm-debug*
 /.tox
 .idea
+logs/

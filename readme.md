@@ -15,3 +15,9 @@ python run.py -m 'test'
 
 - uwsgi的使用和切换
 - egg_info的调研
+
+# 参考
+
+- setuptools：https://setuptools.readthedocs.io/en/latest/setuptools.html#id35
+- setuptools csdn:https://blog.csdn.net/pfm685757/article/details/48651389
+- setuptools 伯乐在线:http://python.jobbole.com/87240/
